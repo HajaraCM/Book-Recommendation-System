@@ -11,7 +11,7 @@ Table of Content
 ##  Introduction
 With an increasing amount of information on the internet and a considerable increase in the number of users, it is essential for companies to search, map, and offer relevant information based on the preferences of users. Aan important functional means of providing personalized service to users is Recommendation System. This system uses algorithms and data analysis techniques to suggest items,content, or services that should be of interest to customers based on their past choices or by analyzing the preferences of similar users. Companies like Netflix, Amazon, etc. use recommender systems to help their users to identify the correct product or content for them.
 
-dart The main objective of this project is to create a Book recommendation system that best predicts user interests and recommend the suitable/appropriate books to them ,using various approaches.
+The main objective of this project is to create a Book recommendation system that best predicts user interests and recommend the suitable/appropriate books to them ,using various approaches.
 
 ![Screenshot_20230618_044311](https://github.com/HajaraCM/Book-Recommendation-System/assets/117503246/a5578499-9329-4cb3-9102-8e452e3af2a3)
 ![Screenshot_20230618_044428](https://github.com/HajaraCM/Book-Recommendation-System/assets/117503246/9c16b29a-2f83-4ec1-a84d-dd2cb500c28b)
